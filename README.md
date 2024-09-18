@@ -1,2 +1,2 @@
 # Devika
-Devika Project by anirudh sir
+Devika Project
